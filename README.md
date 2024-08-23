@@ -1,3 +1,4 @@
+#Smart contract ETH intermediate mod 2
 Write the code and create .sol, deploy.js, and index.js file.
 
 Inside the project directory, in the terminal type:
