@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.16;
 
-contract ramanAssessment {  
+contract divneetAssessment {  
     event Deposit(uint256 amount);
     event Withdraw(uint256 amount);
     event subResult(uint256 result); 
